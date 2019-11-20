@@ -1,4 +1,26 @@
  p{
-    color: red;
+    color: black;
     font-weight: bold;
 }
+.info {
+  text-align: center;
+  color: black;
+}
+    .hiper {
+      text-align: center;
+      color: red;
+    }
+        #a {
+          text-align: center;
+          color: gray;
+        }
+            #b {
+              text-align: center;
+              color: white;
+            }
+            #t {
+                text-align: center;
+                color: white;
+              }
+            
+            
