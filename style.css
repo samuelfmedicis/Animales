@@ -12,7 +12,7 @@
     }
         #a {
           text-align: center;
-          color: gray;
+          color: wheat;
         }
             #b {
               text-align: center;
@@ -22,5 +22,15 @@
                 text-align: center;
                 color: white;
               }
-            
-            
+            a:hover{
+              color: blue
+            }
+            a:hover{
+              font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+            }
+            h1{
+              background-color:goldenrod
+            }
+            img:hover{
+            width: 250px
+            }
