@@ -84,5 +84,16 @@
               position: absolute;
               top: 40px;
               right: 40px;
-          
+      
+          }
+          #ver:hover {
+          transition-duration: 1s;
+          transition-timing-function: ease-in-out; 
+          filter: invert(90%);
+          }
+          #ver2:hover {
+            transition-duration: 1s;
+            transition-timing-function: ease-in-out; 
+            filter: blur(90%);
+
           }
